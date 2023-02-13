@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kobichizoba
+- 👋 Hi, I’m @Chizoba Okafor
+Data Analyst Portfolio Project Repository
+This Repository will hold all of the code and queries from the Portfolio Projects we create.
+
+Please feel free to take these and run with them. Make them your own and find your own insights.
+
+
 - 📫 How to reach me chizobafestus64@gmail.com
-
-
-<!---
-Kobichizoba/Kobichizoba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
