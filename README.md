@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Kobichizoba
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
-- 📫 How to reach me kobichizoba1994@gmail.com
+- 📫 How to reach me chizobafestus64@gmail.com
 
 
 <!---
