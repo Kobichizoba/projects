@@ -5,7 +5,7 @@ Select *
 From projects..NashvilleHousing
 
 
---Stardardise Date Format
+--Standardise Date Format
 
 
 Select saleDateConverted, CONVERT(Date,SaleDate)
